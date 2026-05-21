@@ -17,6 +17,8 @@ A Skill is a folder containing a `SKILL.md` file that teaches an AI assistant ho
 - Local business and document workflows
 - More as the community contributes
 
+See [ROADMAP.md](./ROADMAP.md) for the full list of planned skills.
+
 ## Status
 
 Early days. Skills are being added over time.
