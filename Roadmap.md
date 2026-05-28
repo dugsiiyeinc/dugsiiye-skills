@@ -2,6 +2,10 @@
 
 Planned skills for Dugsiiye Skills, grouped by category. This is a working list — order, priority, and scope will change as we build.
 
+## Development & security
+
+- ✅ **security-review** — reviews application code and configuration for security issues before deployment (secrets, auth, access control, API security, input validation, file uploads, business logic, dependencies). Aligned with OWASP Top 10, SSDLC, and DevSecOps.
+
 ## Payments & finance
 
 - **EVC Plus integration** — Hormuud's API for sending/receiving payments, checking balance, transaction status
